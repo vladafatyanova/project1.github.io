@@ -1,0 +1,78 @@
+body {
+    overflow: hidden;
+    background-color: gray;
+}
+
+a {
+    text-decoration: none;
+}
+
+.left {
+    background-color: white;
+    float: left;
+    padding: 100px 100px 100px 85px;
+    width: 37%;
+    height: 560px;
+    margin: 100px 100px;
+    position: absolute;
+}
+
+.left p {
+    padding-bottom: 100px;
+    color: gray;
+    line-height: 1.5em;
+}
+
+.left h4 {
+    text-transform: uppercase;
+    color: gray;
+}
+
+.left h1 {
+    font-size: 50px;
+    padding-bottom: 0;
+    color: black;
+    font: 'New Century Schoolbook'
+}
+
+
+
+.fa-google-plus-g {
+    color: red;
+}
+
+.fa-facebook-f {
+    color: blue;
+}
+
+.fa-twitter {
+    color: #00aced;
+}
+
+.button {
+    display: block;
+    margin-top: 10px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px 50px;
+}
+.button span {
+    text-transform: uppercase;
+    padding-left: 200px;
+    color: black;
+}
+
+footer {
+    padding-top: 40px;
+}
+
+footer span {
+    padding-left: 90px;
+
+}
+.photo {
+    background-image: url(photo.jpg);
+    height: 870px;
+    width: 45%;
+    margin: 100px 100px;
+    float: right;
